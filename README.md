@@ -1,2 +1,5 @@
 # QR-Share
- ChatGPT said: ChatGPT QR-Share is a simple tool for fast file transfers over a local network using QR codes, allowing users to share files easily across devices without the need for external servers.
+A simple Python script to transfer files over a local network using sockets. The script serves a file from the host machine, and devices on the same network can download it by visiting the provided URL.
+
+## What is next
+Gerate a QR code for easy access to the file URL.
